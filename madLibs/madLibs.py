@@ -85,7 +85,7 @@ def restart(gameCode):
     return gameCode
 
 while True:
-# Error trapping loop
+# Game Loop
     if gameCode.isnumeric() == False:
         gameCode = input("Please only enter a number between 1 and 3: ")
     else:
