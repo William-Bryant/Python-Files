@@ -1,5 +1,5 @@
-import pygame
-import random
+#This is a personal project of a basic arcade space game that I made while learning the Pygame library.
+import pygame, random
 pygame.font.init()
 pygame.mixer.init()
 
