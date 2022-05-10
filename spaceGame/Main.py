@@ -7,7 +7,7 @@ pygame.mixer.init()
 WIDTH, HEIGHT = 900, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 
-pygame.display.set_caption("My First Game! ")
+pygame.display.set_caption("Space Game ")
 
 White = (255,255,255)
 Black = (0, 0, 0)
